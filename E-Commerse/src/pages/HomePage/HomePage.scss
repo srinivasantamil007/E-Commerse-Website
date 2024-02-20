@@ -1,0 +1,9 @@
+.home-page {
+    background-color: lightgray;
+    min-height: 60vh;
+
+    & .categories {
+        border: 1px solid #181717;
+        
+    }
+}
